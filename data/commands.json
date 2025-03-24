@@ -12,5 +12,12 @@
     },
     "ain": {
         "AID": "A.AID"
+    },
+    "gaa": {
+        "KID": "KID",
+        "AX1": "AX1",
+        "AX2": "AX2",
+        "AY1": "AY1",
+        "AY2": "AY2",
     }
 }
